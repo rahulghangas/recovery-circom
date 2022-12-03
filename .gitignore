@@ -1,0 +1,6 @@
+node_modules
+*_cpp
+*.r1cs
+*.sym
+.vscode
+*_0000.ptau
