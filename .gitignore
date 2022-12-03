@@ -3,4 +3,5 @@ node_modules
 *.r1cs
 *.sym
 .vscode
-*_0000.ptau
+*_0000.zkey
+*.ptau
